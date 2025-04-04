@@ -34,18 +34,6 @@ A Python project that scrapes book data (title, price, availability, and rating)
 
 ---
 
-## File Structure
-
-book-catalog-scraper/
-├── book-catalog-scraper.py       # Main Python script
-├── book-scraper.html             # Saved HTML source of the webpage
-├── output.csv                    # Extracted book data
-└── README.md                     # Project documentation
-
-
-
----
-
 ## File Details
 
 ### `book-catalog-scraper.py`
