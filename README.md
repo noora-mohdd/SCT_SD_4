@@ -1,7 +1,16 @@
-# Book Catalog Scraper
+# Skillcraft Technology Internship – Task 4: E-commerce Data Scraper
+  
+This repository contains **Task 4** assigned during my internship as a **Software Development Intern** at **Skillcraft Technology**.
+
+This task focuses on enhancing my programming, problem-solving, and software development skills through a real-world coding challenge: building a **E-commerce Data Scraper** in Python.
+
+---
+
+##  Task 4: Book Catalog Scraper
 
 A Python project that scrapes book data (title, price, availability, and rating) from [Books to Scrape](https://books.toscrape.com/) and saves it to a CSV file.
-
+> **Note:** This project uses only core Python libraries.  
+> No **BeautifulSoup** or **pandas** were used — everything was done using `requests`, `re`, and `csv`.
 ---
 
 ## Features
