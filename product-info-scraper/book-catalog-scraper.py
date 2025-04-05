@@ -23,6 +23,6 @@ with open("output.csv", "w", newline="", encoding="utf-8") as file:
     for Title, Price, Availability, Rating in zip(title, price, in_stock, raw_rating):
         writer.writerow([Title, Price, Availability, Rating])
 
-print(f"Titles: {len(title)}, Prices: {len(price)}, Availability: {len(in_stock)}, Ratings: {len(raw_rating)}")
+# print(f"Titles: {len(title)}, Prices: {len(price)}, Availability: {len(in_stock)}, Ratings: {len(raw_rating)}")
 
 
